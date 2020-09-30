@@ -1,0 +1,59 @@
+{
+  "allchannel" : [
+    {
+  "title" : "Scooby-Doo Collection",
+  "link" : "https://raw.githubusercontent.com/XCProject19/ScoobyDoo/master/",
+  "cover" : "https://i.ytimg.com/vi/E_lByLdKeKY/maxresdefault.jpg",
+  "tag" : ""
+  }
+   ,
+   {
+  "title" : "မြန်မာနတ်သမီးပုံပြင်များ",
+  "link" : "https://raw.githubusercontent.com/XCProject19/mfairytales-collection/master/",
+  "cover" : "https://cdn.bein.com/mena/wp-content/uploads/sites/3/2017/05/ppg.jpg",
+  "tag" : ""
+  }
+  ,
+  {
+  "title" : "အမွှေစိန်လေး မာရှာ",
+  "link" : "https://raw.githubusercontent.com/XCProject19/mf-masha/master/",
+  "cover" : "https://www.syfy.com/sites/syfy/files/styles/1200x680_hero/public/2020/02/naked-cartoon-characters.jpg",
+  "tag" : ""
+  }
+  ,
+      {
+  "title" : "ဘိုဘိုကာတွန်းစုစည်းမှု",
+  "link" : "https://raw.githubusercontent.com/XCProject19/mf-bobo/master/",
+  "cover" : "https://i.pinimg.com/originals/36/0c/b1/360cb14dd5692cc862b02fd9beab01a6.jpg",
+  "tag" : ""
+  }
+  ,
+  {
+  "title" : "Scooby-Doo Collection",
+  "link" : "https://raw.githubusercontent.com/XCProject19/ScoobyDoo/master/",
+  "cover" : "https://assetsds.cdnedge.bluemix.net/sites/default/files/styles/amp_metadata_content_image_min_696px_wide/public/feature/images/op_2_new_0.jpg?itok=GQLdSh3K",
+  "tag" : ""
+  }
+   ,
+   {
+  "title" : "မြန်မာနတ်သမီးပုံပြင်များ",
+  "link" : "https://raw.githubusercontent.com/XCProject19/mfairytales-collection/master/",
+  "cover" : "https://i.ytimg.com/vi/yCcqw76edrk/maxresdefault.jpg",
+  "tag" : ""
+  }
+  ,
+  {
+  "title" : "အမွှေစိန်လေး မာရှာ",
+  "link" : "https://raw.githubusercontent.com/XCProject19/mf-masha/master/",
+  "cover" : "https://lh3.googleusercontent.com/proxy/9C96pagBcSLmCJcqw6AAiuS7NBaFEBMFXq0vvGn0a_aL0qQzhAmLJa0DIBn12di4Up8BA97wtfi03Dxds4nuvEiu46FKcvkH",
+  "tag" : ""
+  }
+  ,
+      {
+  "title" : "ဘိုဘိုကာတွန်းစုစည်းမှု",
+  "link" : "https://raw.githubusercontent.com/XCProject19/mf-bobo/master/",
+  "cover" : "https://images.fastcompany.net/image/upload/w_1280,f_jpg,q_auto,fl_lossy/wp-cms/uploads/2018/04/p-1-these-online-cartoons-are-leading-the-sexual-education-revolution.gif",
+  "tag" : ""
+  }
+  ]
+  }
